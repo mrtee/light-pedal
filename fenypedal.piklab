@@ -1,0 +1,15 @@
+<!DOCTYPE piklab>
+<piklab>
+  <general>
+    <device>10F200</device>
+    <tool>gputils</tool>
+    <programmer>pickit2</programmer>
+    <files>
+      <item>fenypedal.asm</item>
+    </files>
+    <opened_files>
+      <item>fenypedal.asm</item>
+      <item>/home/szinhaz/Asztal/pic/terv/teszt683/teszt683.asm</item>
+    </opened_files>
+  </general>
+</piklab>
